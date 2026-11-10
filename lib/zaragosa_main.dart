@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'shopping_cart_page.dart';
+import 'zaragosa_shopping_cart_page.dart';
 
 void main() => runApp(const MyApp());
 

@@ -122,7 +122,7 @@ class ShoppingCartPage extends StatelessWidget {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Text(
-                            'Deliver to Your Full Name', // <-- put your name
+                            'Deliver to Your Liz Zaragosa',
                             style: TextStyle(fontWeight: FontWeight.bold),
                           ),
                           Text(
